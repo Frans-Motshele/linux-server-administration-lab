@@ -1,0 +1,13 @@
+# Generated monitoring logs
+logs/*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# SSH private keys
+id_rsa
+id_ed25519
+*.pem
+
